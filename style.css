@@ -1,0 +1,29 @@
+body {
+    color: white;
+   background-color: rgb(146, 46, 84);
+
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+    background-color: khaki;
+}
+.name_of_objects {
+    color:  rgb(47, 255, 123);
+}
+#camera {
+border: 2px dashed rgb(30, 0, 255);
+width: 350px;
+height: 300px;
+
+}
+#result_object_name {
+    color: rgb(234, 134, 13);
+}
+#result_object_accuracy {
+    color: rgb(191, 204, 216);
+}
+button {
+    color: brown;
+    background-color: rgb(144, 238, 180) ;
+}
